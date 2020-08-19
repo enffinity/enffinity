@@ -1,6 +1,5 @@
 ### Hi there 👋
 
 - 🚀 NodeJS/ExpressJS backend developer
-- 💄 Learning TypeScrip
-- ⭐ Current project: health-track (private)
+- 💄 Learning TypeScript
 - 💬 Contact me on Discord at **enffinity#4578**
