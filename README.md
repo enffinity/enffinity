@@ -13,5 +13,5 @@ TypeScript, React, SASS
 You can view my Portofolio [here](https://enffinity.github.io/portofolio.github.io), but keep in mind that I'm still working on it
 
 ### Contact Me
-My Discord Username is **Meliodas0524**, feel free to contact me! <br>
+My Discord Username is **Meliodas#0524**, feel free to contact me! <br>
 My Email Adress is **enffinity@yahoo.com**, contact me at this email ONLY for partnership requests
