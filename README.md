@@ -9,7 +9,7 @@ TypeScript, React, SASS
 ### Projects
 [greezy-bot](https://github.com/enffinity/greezy-bot) is a Open-Source Discord Bot made with discord.js
 
-### Portofolio
+### Portfolio
 You can view my Portfolio [here](https://enffinity.github.io/portfolio/), but keep in mind that I'm still working on it
 
 ### Contact Me
