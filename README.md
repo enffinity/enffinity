@@ -8,9 +8,9 @@
 - ✍️ &nbsp; Watching Anime and listening to music
 <h3>🛠 Tech Stack</h3>
 
-- 🌐 &nbsp; HTML | CSS | JavaScript
+- 🌐 &nbsp; HTML | CSS | JavaScript | Java
 - 🛢 &nbsp; MongoDB
-- 🔧 &nbsp; Visual Studio code | Git
+- 🔧 &nbsp; Visual Studio code | Git | Eclipse | Unity
 - 🖥 &nbsp; Figma | Illustrator | PaintShop
 
 <br>
