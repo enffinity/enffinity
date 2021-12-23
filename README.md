@@ -8,10 +8,11 @@
 - ✍️ &nbsp; Watching Anime and listening to music
 <h3>🛠 Tech Stack</h3>
 
-- 🌐 &nbsp; HTML | JSX | CSS | SASS | JavaScript | Typescript | Java
+- 🌐 &nbsp; HTML | CSS | SASS | JavaScript | Typescript
+- 📙 &nbsp; ReactJS | TailwindCSS | DiscordJS
 - 🛢 &nbsp; MongoDB
-- 🔧 &nbsp; Visual Studio code | Atom | Git | Eclipse | Unity
-- 🖥 &nbsp; Figma | Illustrator | PaintShop
+- 🔧 &nbsp; Visual Studio code | Atom | Git
+- 🖥 &nbsp; Figma | Illustrator | PaintShop | HeroIcosn
 
 <br>
 
