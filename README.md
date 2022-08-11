@@ -3,8 +3,8 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🔭 &nbsp; I’m currently learning TypeScript and Express
-- 💼 &nbsp; Back-end and front-end web developer
+- 🔭 &nbsp; I’m currently Rust
+- 💼 &nbsp; Back-end Developer
 - ✍️ &nbsp; Watching Anime and listening to music
 <h3>🛠 Tech Stack</h3>
 
@@ -12,7 +12,7 @@
 - 📙 &nbsp; ReactJS | TailwindCSS | DiscordJS
 - 🛢 &nbsp; MongoDB
 - 🔧 &nbsp; Visual Studio code | Atom | Git
-- 🖥 &nbsp; Figma | Illustrator | PaintShop | HeroIcosn
+- 🖥 &nbsp; Figma | Illustrator | PaintShop | HeroIcons
 
 <br>
 
