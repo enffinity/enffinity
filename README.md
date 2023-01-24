@@ -3,7 +3,7 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🔭 &nbsp; I’m currently Rust
+- 🔭 &nbsp; Working on Zenith
 - 💼 &nbsp; Back-end Developer
 - ✍️ &nbsp; Watching Anime and listening to music
 <h3>🛠 Tech Stack</h3>
